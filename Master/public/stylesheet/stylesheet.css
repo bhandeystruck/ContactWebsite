@@ -1,0 +1,129 @@
+#contactmap{
+    height: 30em;
+    border: solid black 2px;
+}
+
+#contacttable{
+    height: 22em;
+    width: 100%;
+    overflow: auto;
+    
+}
+
+#headingS{
+    letter-spacing: 2.4px;
+}
+
+td{
+    cursor: pointer;
+}
+
+#update-form, #create-form, #formtype{
+    border: solid 2px rgb(216, 31, 31);
+    background-color:rgb(214, 179, 22);
+    padding: 1em;
+    border-radius: 1em;
+    font-family: sans-serif;
+}
+
+#create, #read{
+    cursor: pointer;
+}
+
+#main-nav{
+    text-align: center;
+}
+
+#headingS{
+    font-family: sans-serif;
+    color: teal;
+    font-weight: 400;
+    font-size: 8mm;
+
+}
+
+
+#login-form{
+    font-family: sans-serif;
+    color:teal
+}
+
+#signInMessage{
+    color:teal;
+    font-family:sans-serif;
+}
+
+#main-nav.navbar-nav.mx-5{
+    color: teal;
+    
+}
+
+#offset-4{
+    color: teal;
+}
+
+.display-1{
+    color: tomato;
+    font-family: sans-serif;
+}
+
+.display-message{
+    color: tomato;
+    font-family: sans-serif;
+}
+
+.display-bulletpoints{
+    color: tomato;
+    font-family: sans-serif;
+}
+
+.display-4{
+    color: tomato;
+    font-family: sans-serif;
+    padding-top: 0.5em;
+}
+
+#homeNav{
+    color: teal;
+    font-family: sans-serif;
+    font-size: 5mm;
+}
+
+#main-form-btn{
+    color: teal;
+    font-family: sans-serif;
+    font-size: 5mm;
+}
+
+#main-contact-btn{
+    color: teal;
+    font-family: sans-serif;
+    font-size: 5mm;
+}
+
+.nav-link{
+    color: teal;
+    font-family: sans-serif;
+    font-size: 5mm;
+    font-weight: bolder;
+}
+
+#thnksMessage{
+
+    color: tomato;
+    font-weight: bolder;
+}
+
+#tableHeadings{
+    font-family: sans-serif;
+    background-color: tomato;
+
+}
+
+.EndDisplay{
+    font-family: sans-serif;
+    color: tomato;
+    font-size:10mm
+
+}
+

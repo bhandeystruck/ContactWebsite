@@ -1,0 +1,14 @@
+extends layout
+
+block content
+    .container-fluid.h-60
+        section#read_page
+            include read.pug
+
+        section#update_page
+           include update.pug
+
+        section#create_page
+            include create.pug
+
+    script(src='javascript/contactspage.js')

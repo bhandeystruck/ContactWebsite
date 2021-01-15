@@ -1,0 +1,15 @@
+extends layout
+
+
+block content
+    .containter.mx-auto.text-center
+        
+        .jumbotron
+            h1.display-1 Contact Book
+            h2.display-message Safely Store Contacts Online 
+            h3.display-bulletpoints Sign up to the form
+            p.display-4.text-middle Developed By : Aditya Bhandari
+    
+    script.
+        $('#main-nav').append( "<li class = 'nav-item'> <a class = 'nav-link' id = 'login'> Login </li> ")
+        $('#login').attr('href', 'login')
